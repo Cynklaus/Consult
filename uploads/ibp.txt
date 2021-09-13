@@ -1,0 +1,132 @@
+ADM NO: 9783
+QUESTION FIVE
+a)
+Scripting languages; javascript, php: Programming languages; html,bootstrap.
+Programming languages; languages used in writing of codes, while scripting are those used to indicate how a particular code should behave
+b)
+I. used in commenting of codes in a text editor
+Ii. Meta; includes the information about the document that enables search engines to locate.
+Iii. its a tag that indicates the header of a particular table.
+c)
+ <html>
+<head><title></title></head>
+<body>
+	<h1><b>Registration Form</b></h1>
+<form style=”border”>
+	<p><i> Personal Details</i></p>
+<span>
+	<label > First  Name < /label > <input type=“text”  name=“fname”/>
+</span>
+<span>
+            <label > Last  Name < /label > <input type=“text”  name=“lname”/>
+</span>
+<span>
+<select name=“Gender”>
+<option value=“ Male”> Male </option>
+<option value=“Female”> Female </option>
+</select >
+</span>
+<span>
+            <label > D.O.B < /label >
+<input type=“date”  name=“dob” placeholder=”DD-MM-YYYY”/>
+</span>
+<span>
+            <label > Photo < /label >
+<input type=“file” name=“Browse..” / >
+ <p> No file selected<p/>
+</span>
+<label > Bio < /label >
+<textarea style=”padding: 10px;”></textarea>
+<span>
+<input type="button"  name=”submit”> <input type="button" name=”Reset” >
+</span>
+</form>
+</body>
+</html>
+QUESTION SIX
+a)
+b)
+I.
+Selector; selecting the specific element to be styled.
+Declaration by specifying the formatting
+Value, the one to be applied
+Ii. 
+	<html>
+<head><title></title></head>
+   <style>
+	h1{
+		Color: blue;
+   }
+  </style>
+<body>
+<h1>Nicholas</1h>
+<p> Nicholas Odhiambo</p>
+</body>
+</html>
+
+c)
+<html>
+<head><title></title></head>
+ <style>
+	h1{
+		Color: blue;
+   }
+P{
+Text-align: center;
+}
+  </style>
+<body>
+ <table>
+<tr> 
+<td> L name</td>
+<td> Fname</td>
+</tr>
+ </table>
+</body>
+</html>
+d)
+ Server side
+ Phpt,python,asp, vbscript
+Client side
+ Css, html, javascript, perl
+QUESTION FOUR
+a)
+Where he is required to give more information about an item in a list.
+b)
+c)
+To see if its mobile compatible
+To determine if its compatible with all browsers available to users.
+To see if it is efficient to use and easily navigable
+To test the security of the website
+d)
+The target client requirements
+The language to be used should not be outdated.
+The timeframe given for the website to be created should be enough
+
+QUESTION ONE
+a)
+In WYSIWYG, instead of writing source codes, users manipulate the graphic design instead. Example Drumbeat
+In pure code based editors; one works directly with raw html tags and sets his own rules example sublime text
+b)
+I. SMTP; is used for sending emails
+Ii. HTTPS is a secure method of transferring web pages over the internet.
+Iii. FTP; used to transfer files across the internet
+c)
+I.
+Cell spacing; to space out the words inside of the cell
+Cell padding; to enlarge the cell 
+Ii.
+Iii.
+<html>
+<body>
+ <table border=”1” cellspacing=”10” cellpadding=”5”>
+<tr>
+<td> Name 3</td>
+<td style=”background-color:blue”> Name 4</td>
+</tr>
+ </table>
+</body>
+</html>
+
+
+

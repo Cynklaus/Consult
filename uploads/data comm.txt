@@ -1,0 +1,82 @@
+ Adm No: 9783
+QUESTION ONE
+a)
+Resource sharing, enables the optimal use of the organisations resources like printers and scanners.
+Decentralizing processes; the activities of the organisation are distributed across hence speeding up production.
+b)
+c)
+Cloud computing is the storing of large data volumes over the network. The types include  parallel computing, virtualization and distributed storage.
+d)
+When transmitting data over long distances; since fibre cable is less susceptible to attenuation. 
+When data is to be transmitted in hazardous areas; since there will be less/ no EMI.
+When transmitting large volumes of data since fibre optic cable has a very high bandwidth.
+e)
+I.
+Ii.
+Iii.
+f)
+I. Multipurpose internet mail extension
+Ii. Post Office Protocol
+Iii. Simple Mail Transfer Protocol
+g)
+DNS; refers to a name assigned to an ip address.
+h)
+I. CAT6
+Ii. CAT5
+
+
+QUESTION TWO
+a)
+b)
+c)
+Unicast is where a data unit is sent from one single source to a single destination on a network.
+Multicast; is where a single data unit from a single source is sent to multiple destinations which are specifically chosen on the network.
+Broadcast; data is sent from a single source to all nodes on the network
+
+d)
+Error handling; data link layer performs checking of error and detection
+Allows the communicating devices to access the network so that they  can send and receive messages.
+It provides the physical address of the sender and the receiver of the message.
+e)
+It is very expensive; due to the amount of cables needed.
+It is very difficult to install and reconfigure.
+f)
+g)
+Host devices are those that initiate a connection on a network, while intermediary devices are those that connect the host devices to the recipient devices.
+h)
+The number of users; so that he can know the amount of data involved 
+The type of network topology used;
+
+QUESTION THREE
+a)
+b)
+Security; its secure in hiding of data units
+Its less costly; enables the sharing of bandwidth hence saving on money
+c)
+Verify connection; check to see if the network cables are properly connected 
+Check the protocols; he should verify that the correct protocols are installed and specified.
+Check the network card; he should verify if the network card is well installed and is able to communicate by using png command.
+d)
+Safaricom
+Telkom Kenya
+Airtel Kenya
+e)
+They should be coated with a thick layer coating that will prevent the interference
+To not transmit multiple signals at the same time.
+f)
+Throughput is the amount of data that can be sent over the network in a given modulation.
+g)
+Used in loading pages over the internet.
+Its used as a search engine and holding of cache
+h)
+I. Add on;
+Ii. Url; its a code that indicates a rootpath of an item over the internet
+
+i)
+Where data are to be transmitted over short distances; this is because they will not be susceptible to attenuation.
+Where transmission of vast volumes of data is involved.  
+
+
+
+
+
